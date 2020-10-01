@@ -1,5 +1,5 @@
 # Music🎵 player with Emotion😂😥😡😱 Recognition
-  Emotion recognition using facial expression based music player
+  Realtime facial emotion based music player
 
 
 STEPS TO EXECUTE THIS PROGRAM:
